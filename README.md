@@ -1,2 +1,1 @@
-# blackJackGame
- Black Jack Game
+# Black Jack Game - Created by Neil
